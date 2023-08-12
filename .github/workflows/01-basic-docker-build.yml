@@ -1,6 +1,6 @@
 ---
 name: 01 Basic Docker Build
-run-name: ${{ github.actor }} is integrating DockerHub and GitHub Actions 🚀
+run-name: ${{ github.actor }} is running GitHub Action 01 🚀
 # simplest workflow possible
 
 on:
